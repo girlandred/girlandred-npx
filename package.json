@@ -1,0 +1,16 @@
+{
+  "name": "girlandred",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "girlandred",
+  "license": "ISC",
+  "bin": {
+    "girlandred": "./index.mjs"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
+}
